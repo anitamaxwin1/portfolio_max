@@ -3,8 +3,7 @@
 ## 📖 Project Overview
 This is a single-page responsive portfolio website created as part of a lab assignment. The website showcases personal information, projects, skills, and contact details. It is built using HTML, CSS, and JavaScript.
 
-* URL Link to website portfolio: [Click Here](https://your-username.github.io/your-repo-name/)
-* URL Link to website design: [Click Here](https://www.figma.com/your-design-link)
+* URL Link to website portfolio: [Click Here](https://github.com/anitamaxwin1/portfolio_max)
 
 ## 🎯 Purpose
 The goal of this project is to:
